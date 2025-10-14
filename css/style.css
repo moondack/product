@@ -72,10 +72,6 @@ body {
     margin-left: 20px;
 }
 
-.decor {
-    text-decoration: none;
-}
-
 .decor button {
     border: none;
   background: none;
@@ -656,4 +652,5 @@ body {
     }
 
 }
+
 
