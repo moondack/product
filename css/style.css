@@ -76,6 +76,12 @@ body {
     text-decoration: none;
 }
 
+.decor button {
+    border: none;
+  background: none;
+  padding: 0px;
+}
+
 .cartinci li {
     margin-bottom: 31px;
     width: 180px;
@@ -650,3 +656,4 @@ body {
     }
 
 }
+
