@@ -72,6 +72,10 @@ body {
     margin-left: 20px;
 }
 
+.decor {
+    text-decoration: none;
+}
+
 .cartinci li {
     margin-bottom: 31px;
     width: 180px;
@@ -644,4 +648,5 @@ body {
     .footer {
         height: 400px;
     }
+
 }
